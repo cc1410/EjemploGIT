@@ -9,17 +9,17 @@
             <div>nombre: <input type="text" name="nombre"></div>
             <div>Edad: <input type="number" name="edad"></div>
             <div>Ciudad: <select name="ciudad">
-                <option>Barcelona</option>
-                <option>Girona</option>
-                <option>Lleida</option>
-                <option>Tarragona</option>
+                    <option>Barcelona</option>
+                    <option>Girona</option>
+                    <option>Lleida</option>
+                    <option>Tarragona</option>
                 </select></div>
             <div>
-            sexo: 
-            Hombre<input type="radio" name="sexo" value="hombre">
-            Mujer<input type="radio" name="sexo" value="mujer">
+                sexo: 
+                Hombre<input type="radio" name="sexo" value="hombre">
+                Mujer<input type="radio" name="sexo" value="mujer">
             </div>
             <input type="submit" value="enviar">
-            </form>
+        </form>
     </body>
 </html>
